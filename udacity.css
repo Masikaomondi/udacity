@@ -22,3 +22,13 @@ margin:1.5px;
 padding: 0.5px;
 float: right;
 }
+
+.Colors
+{color:rgb(90%, 90%, 90%);
+font-size:50;
+}
+
+.rgb
+{color:100%, 0%, 0%;
+font-size:100px;
+float:bottom;}
