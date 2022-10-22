@@ -43,3 +43,12 @@ h2{
     font-size: 100;
     float: middle;
 }
+
+ul{
+        list-style-type: square;
+    }
+
+ul{
+    color:#992400;
+    font-size: 25px;
+}
