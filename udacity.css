@@ -28,7 +28,18 @@ float: right;
 font-size:50;
 }
 
-.rgb
-{color:100%, 0%, 0%;
-font-size:100px;
-float:bottom;}
+.box
+{color: rgb(0, 102, 0);
+font-size: 100px;
+float: bottom;
+}
+
+h1{
+    color:purple;
+}
+
+h2{
+    color:#ff3c00;
+    font-size: 100;
+    float: middle;
+}
