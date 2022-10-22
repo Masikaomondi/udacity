@@ -52,3 +52,14 @@ ul{
     color:#992400;
     font-size: 25px;
 }
+
+h3{
+    font-family: Garamond;
+    text-align: center;
+    color:#b38300;
+}
+p1{
+    color: purple;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
