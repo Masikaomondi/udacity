@@ -95,3 +95,31 @@ h4{
         1px 25px 35px rgb(16, 16, 16, 0.2),
         1px 30px 60px rgb(16, 16, 16, 0.4),
 }
+
+em {
+    font-weight: bold;
+        color: red;
+        font-style: normal;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  float: center;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: yellow;
+}
