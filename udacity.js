@@ -37,3 +37,8 @@ let firstLetterOfLastName = "";
 const firstName = "Lovelace";
 firstLetterOfFirstName = firstName[0]
 console.log(firstLetterOfFirstName);
+
+//Understand String Immutability
+let myWord = "Jello World..!";
+myWord = "Hello World..!";
+console.log(myWord);
