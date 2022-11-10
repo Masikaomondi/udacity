@@ -42,3 +42,8 @@ console.log(firstLetterOfFirstName);
 let myWord = "Jello World..!";
 myWord = "Hello World..!";
 console.log(myWord);
+
+//Use Bracket Notation to Find the Nth Character in a String
+const newName = "MASIKAOMONDI";
+const thirdLetterOfNewName = newName[2]
+console.log(thirdLetterOfNewName);
