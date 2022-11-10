@@ -20,3 +20,10 @@ const myName = "MasikaOmondi";
 const myString = "Hello, my name is " + myName + ", and I am well!";
 console.log(myString);
 
+//Appending Variables to Strings
+const someAdjective = "awsome.!! ";
+let someStr = "Learning to code is ";
+someStr += someAdjective;
+console.log(someStr);
+
+
