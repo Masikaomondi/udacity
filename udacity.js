@@ -8,3 +8,15 @@ const myLine = "FirstLine\n\t\\SecondLine\nThirdLine";
 
 //concatenation of two strings
 const ourStr = "This is the start. " + "This is the end. ";
+console.log(ourStr);
+
+//Concatenating Strings with the Plus Equals Operator
+let mySent = "This is the first sentence. ";
+mySent += "This is the second sentence.";
+console.log(mySent);
+
+//Constructing Strings with Variables
+const myName = "MasikaOmondi";
+const myString = "Hello, my name is " + myName + ", and I am well!";
+console.log(myString);
+
