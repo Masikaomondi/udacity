@@ -47,3 +47,13 @@ console.log(myWord);
 const newName = "MASIKAOMONDI";
 const thirdLetterOfNewName = newName[2]
 console.log(thirdLetterOfNewName);
+
+//Use Bracket Notation to Find the Last Character in a String
+const middleName = "Smith";
+const lastLetterOfMiddleName = middleName[middleName.length - 1];
+console.log(lastLetterOfMiddleName);
+
+//Use Bracket Notation to Find the Last Character in a String
+const someName = "Peter";
+const secondToLastLetterOfSomeName = someName[someName.length - 2];
+console.log(secondToLastLetterOfSomeName);
