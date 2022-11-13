@@ -21,7 +21,7 @@ const myString = "Hello, my name is " + myName + ", and I am well!";
 console.log(myString);
 
 //Appending Variables to Strings
-const someAdjective = "awsome.!! ";
+const someAdjective = "awesome.!! ";
 let someStr = "Learning to code is ";
 someStr += someAdjective;
 console.log(someStr);
@@ -57,3 +57,19 @@ console.log(lastLetterOfMiddleName);
 const someName = "Peter";
 const secondToLastLetterOfSomeName = someName[someName.length - 2];
 console.log(secondToLastLetterOfSomeName);
+
+//Word Blanks
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
+console.log(wordBlanks);
+
+//Store Multiple Values in one Variable using JavaScript Arrays
+const myArray = ["peanut butter", 12, "popcorn"];
+console.log(myArray);
+
+//Nest one Array within Another Array
+const myTeams = [["Arsenal", 37], ["ManCity", 32]];
+console.log(myTeams);
