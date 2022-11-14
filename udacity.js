@@ -73,3 +73,8 @@ console.log(myArray);
 //Nest one Array within Another Array
 const myTeams = [["Arsenal", 37], ["ManCity", 32]];
 console.log(myTeams);
+
+//Access Array Data with Indexes
+const myNewArray = [50, 60, 70];
+const myData = myNewArray[0];
+console.log(myNewArray[0]);
