@@ -78,3 +78,8 @@ console.log(myTeams);
 const myNewArray = [50, 60, 70];
 const myData = myNewArray[0];
 console.log(myNewArray[0]);
+
+//changing array data
+const someData = [10, 25, 35];
+someData[0] = 15;
+console.log(someData);
